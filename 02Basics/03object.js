@@ -31,13 +31,13 @@ console.log(JsUser.greeting());
 
 JsUser.greetingTwo = function(){
     console.log(`Hello Js User ${this.name}`);
-    
+
 }
 
 console.log(JsUser.greetingTwo());
 
 
-
+console.log(JsUser)
 
 
 
